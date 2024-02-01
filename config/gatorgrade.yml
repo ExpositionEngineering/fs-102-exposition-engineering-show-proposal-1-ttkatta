@@ -1,0 +1,123 @@
+setup: |
+  echo "🐊 Attempt to install exposition engineering tools"
+  echo "🐊 Using pipx to perform program installation"
+  echo "🐊 Will not re-install if already installed"
+  pipx install pymarkdownlnt
+---
+
+# Checks on Files {{{
+
+# perform checks on a file
+- writing/proposals/show_proposal_one.md:
+    - description: Ensure that the show_proposal_one.md file exists in the writing/proposals/ directory
+      check: ConfirmFileExists
+    - description: Complete all TODOs, remove the TODO markers, and rewrite comments for the reflection
+      check: MatchFileFragment
+      options:
+        fragment: TODO
+        count: 0
+        exact: true
+    - description: Delete the 'Add Your Name Here' prompt in the reflection file
+      check: MatchFileFragment
+      options:
+        fragment: "Add Your Name Here"
+        count: 0
+        exact: true
+    - description: Retype the every word in the Honor Code pledge in reflection.md
+      check: MatchFileFragment
+      options:
+        fragment: "I adhered to the Allegheny College Honor Code while completing this project."
+        count: 3
+        exact: true
+    - description: Confirm that the markdown file containing the show proposal has the correct number of headers
+      check: CountMarkdownTags
+      options:
+        tag: heading
+        count: 11
+        exact: true
+    - description: Confirm that the markdown file containing the show proposal has the correct number of lists
+      check: CountMarkdownTags
+      options:
+        tag: list
+        count: 6
+        exact: true
+    - description: Confirm that the markdown file containing the show proposal has a minimum number of paragraphs
+      check: CountMarkdownTags
+      options:
+        tag: paragraph
+        count: 3
+        exact: false
+    - description: Confirm that the markdown file containing the show proposal has the correct number of links
+      check: CountMarkdownTags
+      options:
+        tag: link
+        count: 14
+        exact: true
+    - description: Confirm that the markdown file containing the show proposal has the HTML block markers
+      check: CountMarkdownTags
+      options:
+        tag: html_block
+        count: 2
+        exact: true
+    - description: Confirm that the markdown file containing the show proposal has a show detail keyword
+      check: MatchFileFragment
+      options:
+        fragment: "**Title**:"
+        count: 1
+        exact: true
+    - description: Confirm that the markdown file containing the show proposal has a show detail keyword
+      check: MatchFileFragment
+      options:
+        fragment: "**Host**:"
+        count: 1
+        exact: true
+    - description: Confirm that the markdown file containing the show proposal has a show detail keyword
+      check: MatchFileFragment
+      options:
+        fragment: "**Guest**:"
+        count: 1
+        exact: true
+    - description: Confirm that the markdown file containing the show proposal has the objective labels
+      check: MatchFileFragment
+      options:
+        fragment: "**Objective"
+        count: 3
+        exact: true
+    - description: Confirm that the markdown file containing the show proposal has the question labels
+      check: MatchFileFragment
+      options:
+        fragment: "**Question"
+        count: 3
+        exact: true
+    - description: Confirm that the markdown file containing the show proposal has the justification labels
+      check: MatchFileFragment
+      options:
+        fragment: "**Justification for Question"
+        count: 3
+        exact: true
+    - description: Confirm that the markdown file containing the show proposal has the references
+      check: MatchFileFragment
+      options:
+        fragment: "**Reference"
+        count: 3
+        exact: true
+
+# }}}
+
+# Check Output from Linters {{{
+
+# run a check
+- description: Confirm that the show proposal files passes the linting checks run by pymarkdownlnt
+  command: "pymarkdown --config .pymarkdown.cfg scan writing/proposals/show_proposal_one.md"
+
+# }}}
+
+# Commits {{{
+
+# count number of commits in the GitHub repository
+- description: Have at least a specified minimum number of commits in repository
+  check: CountCommits
+  options:
+    count: 10
+
+# }}}
