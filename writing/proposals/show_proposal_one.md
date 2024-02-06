@@ -52,7 +52,7 @@ There are many pre-med specific majors including the common biology and chemistr
 - **Question Two**: How much course work do you have weekly as a biochem major?
 - **Question Three**: What minor best complimented best with your major?
 
-- **Justification for Question One**: This will allow the listeners to understand the benefits of being a biochemistry major rather than only being in biology or only in chemistry. 
+- **Justification for Question One**: This will allow the listeners to understand the benefits of being a biochemistry major rather than only being in biology or only in chemistry.
 - **Justification for Question Two**: This gives insight on how much time that a listener needs to spend within a biochemistry major to help them plan in the future.
 - **Justification for Question Three**: This gives liseners more knowledge on another path that could be considered similar or something that is completely different from the original and non-creative majors or paths to/for pre-med.
 
