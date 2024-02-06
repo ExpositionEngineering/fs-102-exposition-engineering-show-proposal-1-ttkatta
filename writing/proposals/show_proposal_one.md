@@ -19,6 +19,7 @@
 <!---toc end-->
 
 - Triyasree Katta
+## Re-write the scentence for the Honor Code
 - "I adhered to the Allegheny College Honor Code while completing this project."
 
 ## 🏁 One Sentence Pitch
