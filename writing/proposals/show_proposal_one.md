@@ -50,9 +50,9 @@ There are many pre-med specific majors including the common biology and chemistr
 
 ## 🎉 Show Description
 
-- **Description**: The plan is to start the episode with introductions and what year. Then, I will be introducing the aspect of biochemistry and ask the student how they are doing in class. I plan on getting all of the information that I need, and then editing the parts where we mess up out of the overall show. The plan is to get information about the senior's coursework and other information.
--  I could also ask about specific teachers and ways that they studies for tests and little tips and tricks for the classes that they have taken. Another thing that would be good to highlight would have to be to ask the senior about what courses that they have taken throughout their years. This is because I know that I have had trouble about what classes to take myself as a biochemistry major. I believe that this will help the future students, so that they have a better understanding of the courses and the things that they need to prepare for if they chose to pursue this major.
-- Overall, the goal is to bring more awareness to the major, and help other people prepare for what they might see in this major. If they need anymore information, they can listen to the show to be more informed.
+The plan is to start the episode with introductions and what year. Then, I will be introducing the aspect of biochemistry and ask the student how they are doing in class. I plan on getting all of the information that I need, and then editing the parts where we mess up out of the overall show. The plan is to get information about the senior's coursework and other information.
+I could also ask about specific teachers and ways that they studies for tests and little tips and tricks for the classes that they have taken. Another thing that would be good to highlight would have to be to ask the senior about what courses that they have taken throughout their years. This is because I know that I have had trouble about what classes to take myself as a biochemistry major. I believe that this will help the future students, so that they have a better understanding of the courses and the things that they need to prepare for if they chose to pursue this major.
+Overall, the goal is to bring more awareness to the major, and help other people prepare for what they might see in this major. If they need anymore information, they can listen to the show to be more informed.
 
 ## 📢 Call to Action
 
