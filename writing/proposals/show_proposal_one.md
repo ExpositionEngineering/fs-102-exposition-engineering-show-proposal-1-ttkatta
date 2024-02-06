@@ -64,7 +64,7 @@ Overall, the goal is to bring more awareness to the major, and help other people
 
 ## 📢 Call to Action
 
-**Call to Action**: I want the person to have a better undestanding of the major, and what overall they have to do to be prepared maybe even get any advice that hey need for finalizing which major they want to take. This will also allow for the listeners to be sure that they are going into the major that they want to.
+- **Call to Action**: I want the person to have a better undestanding of the major, and what overall they have to do to be prepared maybe even get any advice that hey need for finalizing which major they want to take. This will also allow for the listeners to be sure that they are going into the major that they want to.
 
 ## 🦜 References
 
