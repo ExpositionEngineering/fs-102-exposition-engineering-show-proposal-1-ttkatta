@@ -67,10 +67,10 @@ There are many pre-med specific majors including the common biology and chemistr
 
 ## 🦜 References
 
-TODO: Please reference at least three web sites or articles from a journal or a
+: Please reference at least three web sites or articles from a journal or a
 conference proceedings that you studied when preparing this proposal.
 
-TODO: Make sure that you use correctly formatted Markdown links to the
+: Make sure that you use correctly formatted Markdown links to the
 references that you consulted when writing this show proposal.
 
 - **Reference One**:
