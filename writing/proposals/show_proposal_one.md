@@ -28,7 +28,7 @@ There are many pre-med specific majors including the common biology and chemistr
 
 ## 🔬 Show Details
 
-- **Title**: Senior on Biochemistry? 
+- **Title**: Senior on Biochemistry?
 - **Host**: Me!
 - **Guest**: Senior who is taking biochem, and some insights from a biochem professor
 
@@ -43,7 +43,6 @@ There are many pre-med specific majors including the common biology and chemistr
 - **Question One**: What compelled you to choose biochemistry as a major over all of the other pre-med majors that are available?
 - **Question Two**: How much course work do you have weekly as a biochem major?
 - **Question Three**: What minor best complimented best with your major?
-- **Question Four**: If you could go back in time and give yourself any advice when you are starting out as a biochem major?
 
 - **Justification for Question One**: This will allow the listeners to understand the benefits of being a biochemistry major rather than only being in biology or only in chemistry. 
 - **Justification for Question Two**: This gives insight on how much time that a listener needs to spend within a biochemistry major to help them plan in the future.
@@ -61,6 +60,6 @@ There are many pre-med specific majors including the common biology and chemistr
 
 ## 🦜 References
 
-- **Reference One**:https://www.mcgill.ca/biochemistry/about-us/information/biochemistry 
-- **Reference Two**:https://www.usnews.com/education/best-colleges/biochemistry-major-overview#:~:text=What%20Is%20a%20Biochemistry%20Major,its%20most%20basic%2C%20molecular%20level. 
-- **Reference Three**:https://www.medschoolcoach.com/what-is-the-best-major-for-a-pre-med/
+- **Reference One**:<https://www.mcgill.ca/biochemistry/about-us/information/biochemistry>
+- **Reference Two**:<https://www.usnews.com/education/best-colleges/biochemistry-major-overview#:~:text=What%20Is%20a%20Biochemistry%20Major,its%20most%20basic%2C%20molecular%20level.>
+- **Reference Three**:<https://www.medschoolcoach.com/what-is-the-best-major-for-a-pre-med/>
