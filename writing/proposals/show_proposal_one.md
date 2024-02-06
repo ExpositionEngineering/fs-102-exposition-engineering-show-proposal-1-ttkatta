@@ -19,14 +19,7 @@
 <!---toc end-->
 
 - Triyasree Katta
-
-## Re-type the sentence "I adhered to the Allegheny College Honor Code while completing this project."
-
 - "I adhered to the Allegheny College Honor Code while completing this project."
-
-**IMPORTANT:** If you do not type the required sentence then the course
-instructor will not know that you adhered to the Allegheny College Honor Code
-while completing the project.
 
 ## 🏁 One Sentence Pitch
 
@@ -67,12 +60,6 @@ There are many pre-med specific majors including the common biology and chemistr
 
 ## 🦜 References
 
-: Please reference at least three web sites or articles from a journal or a
-conference proceedings that you studied when preparing this proposal.
-
-: Make sure that you use correctly formatted Markdown links to the
-references that you consulted when writing this show proposal.
-
-- **Reference One**:
-- **Reference Two**:
-- **Reference Three**:
+- **Reference One**:https://www.mcgill.ca/biochemistry/about-us/information/biochemistry 
+- **Reference Two**:https://www.usnews.com/education/best-colleges/biochemistry-major-overview#:~:text=What%20Is%20a%20Biochemistry%20Major,its%20most%20basic%2C%20molecular%20level. 
+- **Reference Three**:https://www.medschoolcoach.com/what-is-the-best-major-for-a-pre-med/
