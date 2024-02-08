@@ -36,7 +36,7 @@ There are many pre-med specific majors including the common biology and chemistr
 
 ## 🔬 Show Details
 
-- **Title**: Senior on Biochemistry?
+- **Title**: Senior on Biochemistry
 - **Host**: Me!
 - **Guest**: Senior who is taking biochem, and some insights from a biochem professor
 
@@ -62,7 +62,7 @@ The plan is to start the episode with introductions and what year. Then, I will 
 
 I could also ask about specific teachers and ways that they studies for tests and little tips and tricks for the classes that they have taken. Another thing that would be good to highlight would have to be to ask the senior about what courses that they have taken throughout their years. This is because I know that I have had trouble about what classes to take myself as a biochemistry major. I believe that this will help the future students, so that they have a better understanding of the courses and the things that they need to prepare for if they chose to pursue this major.
 
-Overall, the goal is to bring more awareness to the major, and help other people prepare for what they might see in this major. If they need anymore information, they can listen to the show to be more informed.
+Overall, the goal is to bring more awareness to the major, and help other people prepare for what they might see in this major. If they need anymore information, they can listen to the show to be more informed. In the future, the plan is to collaborate with Samikchhya in order to focus on majors related to pre-medicine. This will be the subject for the next few episodes for the podcast, and it will also help with planning the show in the future. There is a lot more that could be done with the topic. Because the majors that qualify for pre-med are extensive, we could start with the conventional majors and go in depth as in one episode per major. Then, we can add an episode or two highlighting the unconventional majors such as history or english.
 
 ## 📢 Call to Action
 
